@@ -58,7 +58,7 @@ It is based on **DistilBERT** for faster inference while preserving strong perfo
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/fake_news_detector.git
+git clone https://github.com/jaswanthbadipati/fake_news_detector.git
 cd fake_news_detector
 
 2. (Optional) Create a virtual environment:
