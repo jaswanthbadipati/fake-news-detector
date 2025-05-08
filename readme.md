@@ -21,7 +21,7 @@ A Streamlit-powered web application that predicts whether **real-time news conte
 | _"NASA confirms alien life on Mars."_    | ❌ Fake     | 96.2%      |
 | _"WHO launches new malaria vaccine."_    | ✅ Real     | 98.7%      |
 
-![App Screenshot](https://i.imgur.com/sA7DDgu.png)
+
 
 ---
 
