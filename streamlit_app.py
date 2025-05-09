@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.news_fetcher import predict_news
+from news_fetcher import predict_news
 
 # App Title
 st.set_page_config(page_title="Real-Time Fake News Detector", layout="centered")
